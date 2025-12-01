@@ -18,3 +18,4 @@
 (define-public (mark-event-invalid (event-id uint))
   (ok true)
 )
+// Update: Add .gitignore for Clarity projects
