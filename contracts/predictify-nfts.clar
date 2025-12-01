@@ -43,3 +43,4 @@
 (define-read-only (get-badge (user principal) (badge-id uint))
   (map-get? user-badges {user: user, badge-id: badge-id})
 )
+// Update: Initialize Clarinet.toml configuration
