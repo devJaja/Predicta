@@ -1,0 +1,17 @@
+[project]
+name = "predictify"
+description = "Decentralized prediction markets on Stacks"
+authors = []
+telemetry = false
+
+[contracts.predictify-core]
+path = "contracts/predictify-core.clar"
+
+[contracts.predictify-oracle]
+path = "contracts/predictify-oracle.clar"
+
+[contracts.predictify-resolution]
+path = "contracts/predictify-resolution.clar"
+
+[contracts.predictify-nfts]
+path = "contracts/predictify-nfts.clar"
