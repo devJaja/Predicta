@@ -81,3 +81,4 @@
 (define-read-only (has-voted (event-id uint) (oracle principal))
   (is-some (map-get? oracle-votes {event-id: event-id, oracle: oracle}))
 )
+// Update: Add README with project overview
