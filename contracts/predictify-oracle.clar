@@ -82,3 +82,4 @@
   (is-some (map-get? oracle-votes {event-id: event-id, oracle: oracle}))
 )
 // Update: Add README with project overview
+// Update: Create contracts directory structure
