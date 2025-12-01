@@ -183,3 +183,4 @@
 (define-read-only (get-reputation (user principal))
   (map-get? user-reputation user)
 )
+// Update: Add MIT license
