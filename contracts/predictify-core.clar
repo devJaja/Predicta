@@ -184,3 +184,4 @@
   (map-get? user-reputation user)
 )
 // Update: Add MIT license
+// Update: Add contributing guidelines
