@@ -19,3 +19,4 @@
   (ok true)
 )
 // Update: Add .gitignore for Clarity projects
+// Update: Add project documentation outline
