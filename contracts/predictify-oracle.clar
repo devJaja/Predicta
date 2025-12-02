@@ -83,3 +83,4 @@
 )
 // Update: Add README with project overview
 // Update: Create contracts directory structure
+// Update: Create issue templates
