@@ -44,3 +44,4 @@
   (map-get? user-badges {user: user, badge-id: badge-id})
 )
 // Update: Initialize Clarinet.toml configuration
+// Update: Setup development environment config
