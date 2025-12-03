@@ -185,3 +185,4 @@
 )
 // Update: Add MIT license
 // Update: Add contributing guidelines
+// Update: Add code of conduct
