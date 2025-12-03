@@ -46,3 +46,4 @@
 // Update: Initialize Clarinet.toml configuration
 // Update: Setup development environment config
 // Update: Setup CI/CD workflow skeleton
+// Update: Setup project roadmap
