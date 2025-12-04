@@ -85,3 +85,4 @@
 // Update: Create contracts directory structure
 // Update: Create issue templates
 // Update: Create security policy
+// Update: Create API documentation structure
