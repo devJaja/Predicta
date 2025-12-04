@@ -187,3 +187,4 @@
 // Update: Add contributing guidelines
 // Update: Add code of conduct
 // Update: Add architecture documentation
+// Update: Create predictify-core contract skeleton
