@@ -22,3 +22,4 @@
 // Update: Add project documentation outline
 // Update: Add pull request template
 // Update: Add changelog template
+// Update: Add deployment guide outline
