@@ -86,3 +86,4 @@
 // Update: Create issue templates
 // Update: Create security policy
 // Update: Create API documentation structure
+// Update: Add basic event data structures
