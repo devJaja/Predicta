@@ -188,3 +188,4 @@
 // Update: Add code of conduct
 // Update: Add architecture documentation
 // Update: Create predictify-core contract skeleton
+// Update: Create betting pool data maps
