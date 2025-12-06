@@ -88,3 +88,4 @@
 // Update: Create API documentation structure
 // Update: Add basic event data structures
 // Update: Implement place-bet function
+// Update: Implement pool update mechanism
