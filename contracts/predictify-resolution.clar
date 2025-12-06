@@ -25,3 +25,4 @@
 // Update: Add deployment guide outline
 // Update: Implement event creation function
 // Update: Add bet validation checks
+// Update: Add event status management
