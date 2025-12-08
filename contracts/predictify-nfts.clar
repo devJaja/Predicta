@@ -51,3 +51,4 @@
 // Update: Add event validation logic
 // Update: Create user bet tracking system
 // Update: Create event query functions
+// Update: Create event nonce counter
