@@ -90,3 +90,4 @@
 // Update: Implement place-bet function
 // Update: Implement pool update mechanism
 // Update: Implement pool query functions
+// Update: Implement option count validation
