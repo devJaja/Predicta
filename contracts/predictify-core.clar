@@ -192,3 +192,4 @@
 // Update: Add STX transfer logic for bets
 // Update: Add bet query functions
 // Update: Add timestamp tracking
+// Update: Add event closure logic
