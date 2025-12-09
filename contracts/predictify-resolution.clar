@@ -27,3 +27,4 @@
 // Update: Add bet validation checks
 // Update: Add event status management
 // Update: Add error constant definitions
+// Update: Add amount validation checks
