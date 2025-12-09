@@ -52,3 +52,4 @@
 // Update: Create user bet tracking system
 // Update: Create event query functions
 // Update: Create event nonce counter
+// Update: Create duplicate bet prevention
