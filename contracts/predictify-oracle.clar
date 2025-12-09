@@ -91,3 +91,4 @@
 // Update: Implement pool update mechanism
 // Update: Implement pool query functions
 // Update: Implement option count validation
+// Update: Implement total pool tracking
