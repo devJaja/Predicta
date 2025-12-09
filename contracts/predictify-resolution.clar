@@ -28,3 +28,4 @@
 // Update: Add event status management
 // Update: Add error constant definitions
 // Update: Add amount validation checks
+// Update: Add creator tracking
