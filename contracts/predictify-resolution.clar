@@ -29,3 +29,4 @@
 // Update: Add error constant definitions
 // Update: Add amount validation checks
 // Update: Add creator tracking
+// Update: Add authorization checks
