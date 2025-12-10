@@ -194,3 +194,4 @@
 // Update: Add timestamp tracking
 // Update: Add event closure logic
 // Update: Add resolve time tracking
+// Update: Add event existence validation
