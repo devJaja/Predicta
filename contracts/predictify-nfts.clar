@@ -54,3 +54,4 @@
 // Update: Create event nonce counter
 // Update: Create duplicate bet prevention
 // Update: Create event title storage
+// Update: Create read-only helper functions
