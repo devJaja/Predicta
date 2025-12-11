@@ -195,3 +195,4 @@
 // Update: Add event closure logic
 // Update: Add resolve time tracking
 // Update: Add event existence validation
+// Update: Implement add-oracle function
