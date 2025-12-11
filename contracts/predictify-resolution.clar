@@ -31,3 +31,4 @@
 // Update: Add creator tracking
 // Update: Add authorization checks
 // Update: Create predictify-oracle contract
+// Update: Create is-oracle check function
