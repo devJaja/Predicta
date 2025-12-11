@@ -93,3 +93,4 @@
 // Update: Implement option count validation
 // Update: Implement total pool tracking
 // Update: Implement event status checks
+// Update: Optimize data structure layout
