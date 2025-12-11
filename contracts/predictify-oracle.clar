@@ -94,3 +94,4 @@
 // Update: Implement total pool tracking
 // Update: Implement event status checks
 // Update: Optimize data structure layout
+// Update: Add remove-oracle function
