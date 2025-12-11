@@ -30,3 +30,4 @@
 // Update: Add amount validation checks
 // Update: Add creator tracking
 // Update: Add authorization checks
+// Update: Create predictify-oracle contract
