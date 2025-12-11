@@ -55,3 +55,4 @@
 // Update: Create duplicate bet prevention
 // Update: Create event title storage
 // Update: Create read-only helper functions
+// Update: Add oracle registry map
