@@ -32,3 +32,4 @@
 // Update: Add authorization checks
 // Update: Create predictify-oracle contract
 // Update: Create is-oracle check function
+// Update: Add vote validation logic
