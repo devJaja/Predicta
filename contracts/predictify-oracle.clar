@@ -95,3 +95,4 @@
 // Update: Implement event status checks
 // Update: Optimize data structure layout
 // Update: Add remove-oracle function
+// Update: Create vote submission function
