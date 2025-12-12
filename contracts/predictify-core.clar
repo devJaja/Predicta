@@ -196,3 +196,4 @@
 // Update: Add resolve time tracking
 // Update: Add event existence validation
 // Update: Implement add-oracle function
+// Update: Implement oracle vote tracking
