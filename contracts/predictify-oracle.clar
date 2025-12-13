@@ -96,3 +96,4 @@
 // Update: Optimize data structure layout
 // Update: Add remove-oracle function
 // Update: Create vote submission function
+// Update: Add duplicate vote prevention
