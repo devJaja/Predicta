@@ -197,3 +197,4 @@
 // Update: Add event existence validation
 // Update: Implement add-oracle function
 // Update: Implement oracle vote tracking
+// Update: Create outcome vote maps
