@@ -58,3 +58,4 @@
 // Update: Add oracle registry map
 // Update: Add oracle authorization
 // Update: Implement vote count tracking
+// Update: Add oracle status checks
