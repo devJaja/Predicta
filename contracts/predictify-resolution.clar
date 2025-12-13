@@ -33,3 +33,4 @@
 // Update: Create predictify-oracle contract
 // Update: Create is-oracle check function
 // Update: Add vote validation logic
+// Update: Implement vote query functions
