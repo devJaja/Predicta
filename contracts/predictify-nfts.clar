@@ -57,3 +57,4 @@
 // Update: Create read-only helper functions
 // Update: Add oracle registry map
 // Update: Add oracle authorization
+// Update: Implement vote count tracking
