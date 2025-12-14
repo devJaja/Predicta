@@ -35,3 +35,4 @@
 // Update: Add vote validation logic
 // Update: Implement vote query functions
 // Update: Implement consensus checking
+// Update: Add oracle reputation tracking
