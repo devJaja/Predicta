@@ -59,3 +59,4 @@
 // Update: Add oracle authorization
 // Update: Implement vote count tracking
 // Update: Add oracle status checks
+// Update: Create oracle event mapping
