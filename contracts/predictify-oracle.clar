@@ -98,3 +98,4 @@
 // Update: Create vote submission function
 // Update: Add duplicate vote prevention
 // Update: Add vote threshold logic
+// Update: Implement vote timestamp tracking
