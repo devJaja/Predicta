@@ -36,3 +36,4 @@
 // Update: Implement vote query functions
 // Update: Implement consensus checking
 // Update: Add oracle reputation tracking
+// Update: Optimize oracle lookup performance
