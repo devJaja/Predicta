@@ -99,3 +99,4 @@
 // Update: Add duplicate vote prevention
 // Update: Add vote threshold logic
 // Update: Implement vote timestamp tracking
+// Update: Implement oracle removal safety
