@@ -60,3 +60,4 @@
 // Update: Implement vote count tracking
 // Update: Add oracle status checks
 // Update: Create oracle event mapping
+// Update: Create oracle performance metrics
