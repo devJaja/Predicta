@@ -201,3 +201,4 @@
 // Update: Create multi-oracle support
 // Update: Add oracle vote history
 // Update: Add invalid vote handling
+// Update: Add resolution validation logic
