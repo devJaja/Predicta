@@ -61,3 +61,4 @@
 // Update: Add oracle status checks
 // Update: Create oracle event mapping
 // Update: Create oracle performance metrics
+// Update: Create predictify-resolution contract
