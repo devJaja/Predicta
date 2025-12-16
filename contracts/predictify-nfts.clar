@@ -62,3 +62,4 @@
 // Update: Create oracle event mapping
 // Update: Create oracle performance metrics
 // Update: Create predictify-resolution contract
+// Update: Add winning outcome validation
