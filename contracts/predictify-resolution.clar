@@ -37,3 +37,4 @@
 // Update: Implement consensus checking
 // Update: Add oracle reputation tracking
 // Update: Optimize oracle lookup performance
+// Update: Create resolve-event function
