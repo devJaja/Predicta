@@ -38,3 +38,4 @@
 // Update: Add oracle reputation tracking
 // Update: Optimize oracle lookup performance
 // Update: Create resolve-event function
+// Update: Add mark-invalid function
