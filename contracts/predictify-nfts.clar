@@ -63,3 +63,4 @@
 // Update: Create oracle performance metrics
 // Update: Create predictify-resolution contract
 // Update: Add winning outcome validation
+// Update: Implement refund trigger logic
