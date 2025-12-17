@@ -39,3 +39,4 @@
 // Update: Optimize oracle lookup performance
 // Update: Create resolve-event function
 // Update: Add mark-invalid function
+// Update: Add resolution authorization
