@@ -203,3 +203,4 @@
 // Update: Add invalid vote handling
 // Update: Add resolution validation logic
 // Update: Implement resolution finality
+// Update: Add resolution status tracking
