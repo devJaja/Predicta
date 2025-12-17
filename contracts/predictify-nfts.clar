@@ -64,3 +64,4 @@
 // Update: Create predictify-resolution contract
 // Update: Add winning outcome validation
 // Update: Implement refund trigger logic
+// Update: Implement resolution query functions
