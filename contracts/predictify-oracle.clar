@@ -103,3 +103,4 @@
 // Update: Implement consensus threshold check
 // Update: Create invalid event handling
 // Update: Create resolution timestamp
+// Update: Add resolution conflict handling
