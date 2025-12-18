@@ -205,3 +205,4 @@
 // Update: Implement resolution finality
 // Update: Add resolution status tracking
 // Update: Create resolution event emission
+// Update: Add resolution verification
