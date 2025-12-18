@@ -65,3 +65,4 @@
 // Update: Add winning outcome validation
 // Update: Implement refund trigger logic
 // Update: Implement resolution query functions
+// Update: Create resolution audit trail
