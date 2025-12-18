@@ -40,3 +40,4 @@
 // Update: Create resolve-event function
 // Update: Add mark-invalid function
 // Update: Add resolution authorization
+// Update: Implement resolution rollback prevention
