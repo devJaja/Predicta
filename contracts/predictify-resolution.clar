@@ -41,3 +41,4 @@
 // Update: Add mark-invalid function
 // Update: Add resolution authorization
 // Update: Implement resolution rollback prevention
+// Update: Optimize resolution gas costs
