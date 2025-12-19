@@ -66,3 +66,4 @@
 // Update: Implement refund trigger logic
 // Update: Implement resolution query functions
 // Update: Create resolution audit trail
+// Update: Implement claim-winnings function
