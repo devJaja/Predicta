@@ -42,3 +42,4 @@
 // Update: Add resolution authorization
 // Update: Implement resolution rollback prevention
 // Update: Optimize resolution gas costs
+// Update: Add fee deduction mechanism
