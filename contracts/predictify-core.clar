@@ -206,3 +206,4 @@
 // Update: Add resolution status tracking
 // Update: Create resolution event emission
 // Update: Add resolution verification
+// Update: Add payout calculation logic
