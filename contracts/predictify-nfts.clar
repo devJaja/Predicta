@@ -67,3 +67,4 @@
 // Update: Implement resolution query functions
 // Update: Create resolution audit trail
 // Update: Implement claim-winnings function
+// Update: Implement winner validation
