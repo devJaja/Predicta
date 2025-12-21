@@ -106,3 +106,4 @@
 // Update: Add resolution conflict handling
 // Update: Implement resolution finalization
 // Update: Create proportional distribution
+// Update: Add double-claim prevention
