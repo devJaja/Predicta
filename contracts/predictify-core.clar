@@ -208,3 +208,4 @@
 // Update: Add resolution verification
 // Update: Add payout calculation logic
 // Update: Create claimed status tracking
+// Update: Add winning pool validation
