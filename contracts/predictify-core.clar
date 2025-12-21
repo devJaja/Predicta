@@ -207,3 +207,4 @@
 // Update: Create resolution event emission
 // Update: Add resolution verification
 // Update: Add payout calculation logic
+// Update: Create claimed status tracking
