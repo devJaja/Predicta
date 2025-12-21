@@ -68,3 +68,4 @@
 // Update: Create resolution audit trail
 // Update: Implement claim-winnings function
 // Update: Implement winner validation
+// Update: Create payout amount calculation
