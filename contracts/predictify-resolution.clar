@@ -45,3 +45,4 @@
 // Update: Add fee deduction mechanism
 // Update: Implement STX payout transfer
 // Update: Create fee percentage logic
+// Update: Add refund validation
