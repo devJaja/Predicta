@@ -69,3 +69,4 @@
 // Update: Implement claim-winnings function
 // Update: Implement winner validation
 // Update: Create payout amount calculation
+// Update: Add payout query functions
