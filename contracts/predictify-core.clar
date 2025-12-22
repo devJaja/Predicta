@@ -209,3 +209,4 @@
 // Update: Add payout calculation logic
 // Update: Create claimed status tracking
 // Update: Add winning pool validation
+// Update: Implement refund logic for invalid events
