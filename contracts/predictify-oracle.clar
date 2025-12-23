@@ -109,3 +109,4 @@
 // Update: Add double-claim prevention
 // Update: Implement total pool calculation
 // Update: Create full refund mechanism
+// Update: Add payout authorization
