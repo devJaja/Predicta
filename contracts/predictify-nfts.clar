@@ -71,3 +71,4 @@
 // Update: Create payout amount calculation
 // Update: Add payout query functions
 // Update: Implement refund transfer logic
+// Update: Create payout error handling
