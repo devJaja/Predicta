@@ -211,3 +211,4 @@
 // Update: Add winning pool validation
 // Update: Implement refund logic for invalid events
 // Update: Create payout status checks
+// Update: Add payout amount validation
