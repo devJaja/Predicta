@@ -72,3 +72,4 @@
 // Update: Add payout query functions
 // Update: Implement refund transfer logic
 // Update: Create payout error handling
+// Update: Optimize payout gas efficiency
