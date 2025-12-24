@@ -212,3 +212,4 @@
 // Update: Implement refund logic for invalid events
 // Update: Create payout status checks
 // Update: Add payout amount validation
+// Update: Create user reputation data map
