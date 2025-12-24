@@ -110,3 +110,4 @@
 // Update: Implement total pool calculation
 // Update: Create full refund mechanism
 // Update: Add payout authorization
+// Update: Implement zero-amount protection
