@@ -73,3 +73,4 @@
 // Update: Implement refund transfer logic
 // Update: Create payout error handling
 // Update: Optimize payout gas efficiency
+// Update: Create total bets counter
