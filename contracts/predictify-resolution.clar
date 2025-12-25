@@ -49,3 +49,4 @@
 // Update: Implement payout optimization
 // Update: Create payout event logging
 // Update: Implement win counter
+// Update: Create reputation increase on win
