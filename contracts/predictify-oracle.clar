@@ -112,3 +112,4 @@
 // Update: Add payout authorization
 // Update: Implement zero-amount protection
 // Update: Add reputation score tracking
+// Update: Implement reputation update on bet
