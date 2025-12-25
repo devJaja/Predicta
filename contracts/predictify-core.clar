@@ -213,3 +213,4 @@
 // Update: Create payout status checks
 // Update: Add payout amount validation
 // Update: Create user reputation data map
+// Update: Add reputation initialization
