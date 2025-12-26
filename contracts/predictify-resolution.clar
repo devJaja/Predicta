@@ -50,3 +50,4 @@
 // Update: Create payout event logging
 // Update: Implement win counter
 // Update: Create reputation increase on win
+// Update: Add reputation milestone tracking
