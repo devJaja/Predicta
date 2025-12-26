@@ -74,3 +74,4 @@
 // Update: Create payout error handling
 // Update: Optimize payout gas efficiency
 // Update: Create total bets counter
+// Update: Add reputation query function
