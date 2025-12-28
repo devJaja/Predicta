@@ -115,3 +115,4 @@
 // Update: Implement reputation update on bet
 // Update: Create reputation tiers
 // Update: Add reputation leaderboard support
+// Update: Implement reputation penalty system
