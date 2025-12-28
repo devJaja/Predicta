@@ -217,3 +217,4 @@
 // Update: Implement reputation-based logic
 // Update: Create reputation history
 // Update: Add reputation bonus system
+// Update: Implement reputation persistence
