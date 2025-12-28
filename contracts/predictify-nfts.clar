@@ -77,3 +77,4 @@
 // Update: Add reputation query function
 // Update: Implement reputation decay prevention
 // Update: Create reputation score calculation
+// Update: Add reputation transfer prevention
