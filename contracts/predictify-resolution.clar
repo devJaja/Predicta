@@ -52,3 +52,4 @@
 // Update: Create reputation increase on win
 // Update: Add reputation milestone tracking
 // Update: Implement reputation validation
+// Update: Create reputation reset protection
