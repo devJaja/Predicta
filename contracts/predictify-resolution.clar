@@ -53,3 +53,4 @@
 // Update: Add reputation milestone tracking
 // Update: Implement reputation validation
 // Update: Create reputation reset protection
+// Update: Add reputation achievement triggers
