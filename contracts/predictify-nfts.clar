@@ -80,3 +80,4 @@
 // Update: Add reputation transfer prevention
 // Update: Implement reputation-based rewards
 // Update: Create reputation caching
+// Update: Add base fee constant
