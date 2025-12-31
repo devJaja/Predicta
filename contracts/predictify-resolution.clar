@@ -56,3 +56,4 @@
 // Update: Add reputation achievement triggers
 // Update: Implement reputation optimization
 // Update: Create dynamic fee calculation function
+// Update: Add high reputation discount (1%)
