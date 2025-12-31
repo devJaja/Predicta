@@ -220,3 +220,4 @@
 // Update: Implement reputation persistence
 // Update: Create reputation verification
 // Update: Add reputation event emission
+// Update: Implement reputation-based discount
