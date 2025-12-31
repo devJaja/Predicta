@@ -81,3 +81,4 @@
 // Update: Implement reputation-based rewards
 // Update: Create reputation caching
 // Update: Add base fee constant
+// Update: Implement medium reputation discount (1.5%)
