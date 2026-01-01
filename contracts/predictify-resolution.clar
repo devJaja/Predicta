@@ -57,3 +57,4 @@
 // Update: Implement reputation optimization
 // Update: Create dynamic fee calculation function
 // Update: Add high reputation discount (1%)
+// Update: Implement fee validation
