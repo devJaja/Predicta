@@ -222,3 +222,4 @@
 // Update: Add reputation event emission
 // Update: Implement reputation-based discount
 // Update: Create base fee fallback (2%)
+// Update: Add fee amount calculation
