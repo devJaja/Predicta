@@ -82,3 +82,4 @@
 // Update: Create reputation caching
 // Update: Add base fee constant
 // Update: Implement medium reputation discount (1.5%)
+// Update: Create fee query function
