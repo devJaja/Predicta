@@ -121,3 +121,4 @@
 // Update: Optimize reputation storage
 // Update: Create fee tier system
 // Update: Add fee calculation optimization
+// Update: Implement fee deduction logic
