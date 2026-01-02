@@ -83,3 +83,4 @@
 // Update: Add base fee constant
 // Update: Implement medium reputation discount (1.5%)
 // Update: Create fee query function
+// Update: Add fee distribution mechanism
