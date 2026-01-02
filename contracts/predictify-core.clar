@@ -224,3 +224,4 @@
 // Update: Create base fee fallback (2%)
 // Update: Add fee amount calculation
 // Update: Implement fee adjustment logic
+// Update: Create fee transparency functions
