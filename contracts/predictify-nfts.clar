@@ -84,3 +84,4 @@
 // Update: Implement medium reputation discount (1.5%)
 // Update: Create fee query function
 // Update: Add fee distribution mechanism
+// Update: Implement fee cap protection
