@@ -85,3 +85,4 @@
 // Update: Create fee query function
 // Update: Add fee distribution mechanism
 // Update: Implement fee cap protection
+// Update: Add badge data structure
