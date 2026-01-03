@@ -225,3 +225,4 @@
 // Update: Add fee amount calculation
 // Update: Implement fee adjustment logic
 // Update: Create fee transparency functions
+// Update: Implement badge registry map
