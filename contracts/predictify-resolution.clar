@@ -61,3 +61,4 @@
 // Update: Create fee collection tracking
 // Update: Add fee analytics support
 // Update: Create predictify-nfts contract
+// Update: Add top-predictor badge
