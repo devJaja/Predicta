@@ -86,3 +86,4 @@
 // Update: Add fee distribution mechanism
 // Update: Implement fee cap protection
 // Update: Add badge data structure
+// Update: Implement win-streak badge
