@@ -125,3 +125,4 @@
 // Update: Create fee history tracking
 // Update: Optimize fee calculation performance
 // Update: Create badge type constants
+// Update: Add event-creator badge
