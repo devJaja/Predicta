@@ -87,3 +87,4 @@
 // Update: Implement fee cap protection
 // Update: Add badge data structure
 // Update: Implement win-streak badge
+// Update: Create badge ownership check
