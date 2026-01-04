@@ -62,3 +62,4 @@
 // Update: Add fee analytics support
 // Update: Create predictify-nfts contract
 // Update: Add top-predictor badge
+// Update: Implement mint-badge function
