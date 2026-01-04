@@ -227,3 +227,4 @@
 // Update: Create fee transparency functions
 // Update: Implement badge registry map
 // Update: Create liquidity-champion badge
+// Update: Add badge metadata storage
