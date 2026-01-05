@@ -228,3 +228,4 @@
 // Update: Implement badge registry map
 // Update: Create liquidity-champion badge
 // Update: Add badge metadata storage
+// Update: Implement badge uniqueness check
