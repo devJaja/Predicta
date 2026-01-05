@@ -127,3 +127,4 @@
 // Update: Create badge type constants
 // Update: Add event-creator badge
 // Update: Implement badge timestamp tracking
+// Update: Create badge achievement logic
