@@ -63,3 +63,4 @@
 // Update: Create predictify-nfts contract
 // Update: Add top-predictor badge
 // Update: Implement mint-badge function
+// Update: Create badge query functions
