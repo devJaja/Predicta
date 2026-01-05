@@ -88,3 +88,4 @@
 // Update: Add badge data structure
 // Update: Implement win-streak badge
 // Update: Create badge ownership check
+// Update: Add badge transfer prevention
