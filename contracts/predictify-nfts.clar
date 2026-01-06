@@ -89,3 +89,4 @@
 // Update: Implement win-streak badge
 // Update: Create badge ownership check
 // Update: Add badge transfer prevention
+// Update: Implement badge rarity system
