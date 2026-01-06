@@ -229,3 +229,4 @@
 // Update: Create liquidity-champion badge
 // Update: Add badge metadata storage
 // Update: Implement badge uniqueness check
+// Update: Create badge display metadata
