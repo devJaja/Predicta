@@ -128,3 +128,4 @@
 // Update: Add event-creator badge
 // Update: Implement badge timestamp tracking
 // Update: Create badge achievement logic
+// Update: Add badge collection tracking
