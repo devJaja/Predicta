@@ -130,3 +130,4 @@
 // Update: Create badge achievement logic
 // Update: Add badge collection tracking
 // Update: Implement badge optimization
+// Update: Add betting logic tests
