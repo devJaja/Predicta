@@ -92,3 +92,4 @@
 // Update: Implement badge rarity system
 // Update: Create badge verification
 // Update: Add unit test structure
+// Update: Create resolution tests
