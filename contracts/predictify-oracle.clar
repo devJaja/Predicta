@@ -131,3 +131,4 @@
 // Update: Add badge collection tracking
 // Update: Implement badge optimization
 // Update: Add betting logic tests
+// Update: Implement reputation tests
