@@ -67,3 +67,4 @@
 // Update: Add badge eligibility validation
 // Update: Implement badge event emission
 // Update: Create badge audit trail
+// Update: Implement oracle voting tests
