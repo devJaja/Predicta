@@ -70,3 +70,4 @@
 // Update: Implement oracle voting tests
 // Update: Create fee calculation tests
 // Update: Add security tests
+// Update: Implement error handling tests
