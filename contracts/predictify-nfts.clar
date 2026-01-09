@@ -96,3 +96,4 @@
 // Update: Add NFT badge tests
 // Update: Implement gas optimization tests
 // Update: Create authorization tests
+// Update: Update README with features
