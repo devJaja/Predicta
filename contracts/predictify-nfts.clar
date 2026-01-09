@@ -95,3 +95,4 @@
 // Update: Create resolution tests
 // Update: Add NFT badge tests
 // Update: Implement gas optimization tests
+// Update: Create authorization tests
