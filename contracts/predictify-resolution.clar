@@ -73,3 +73,4 @@
 // Update: Implement error handling tests
 // Update: Create regression test suite
 // Update: Add usage examples
+// Update: Implement troubleshooting guide
