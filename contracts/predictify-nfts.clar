@@ -98,3 +98,4 @@
 // Update: Create authorization tests
 // Update: Update README with features
 // Update: Implement API documentation
+// Update: Create FAQ section
