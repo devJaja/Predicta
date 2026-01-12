@@ -99,3 +99,4 @@
 // Update: Update README with features
 // Update: Implement API documentation
 // Update: Create FAQ section
+// Update: Add user guide
