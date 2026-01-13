@@ -100,3 +100,4 @@
 // Update: Implement API documentation
 // Update: Create FAQ section
 // Update: Add user guide
+// Update: Reduce gas costs in betting
