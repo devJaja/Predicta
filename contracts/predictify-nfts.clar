@@ -101,3 +101,4 @@
 // Update: Create FAQ section
 // Update: Add user guide
 // Update: Reduce gas costs in betting
+// Update: Improve query performance
