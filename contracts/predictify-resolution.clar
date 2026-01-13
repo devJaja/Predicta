@@ -75,3 +75,4 @@
 // Update: Add usage examples
 // Update: Implement troubleshooting guide
 // Update: Create developer guide
+// Update: Optimize event lookup performance
