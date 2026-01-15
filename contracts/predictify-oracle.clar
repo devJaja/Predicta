@@ -142,3 +142,4 @@
 // Update: Optimize payout calculations
 // Update: Reduce contract size
 // Update: Improve error handling efficiency
+// Update: Add reentrancy protection
