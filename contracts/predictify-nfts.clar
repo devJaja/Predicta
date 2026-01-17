@@ -106,3 +106,4 @@
 // Update: Reduce computational complexity
 // Update: Create authorization validation
 // Update: Add double-spend protection
+// Update: Implement bet manipulation checks
