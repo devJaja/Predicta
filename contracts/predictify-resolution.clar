@@ -81,3 +81,4 @@
 // Update: Optimize validation logic
 // Update: Implement access control checks
 // Update: Create underflow prevention
+// Update: Add oracle manipulation prevention
