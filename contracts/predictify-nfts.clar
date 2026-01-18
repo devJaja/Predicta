@@ -108,3 +108,4 @@
 // Update: Add double-spend protection
 // Update: Implement bet manipulation checks
 // Update: Create audit logging
+// Update: Add vulnerability patches
