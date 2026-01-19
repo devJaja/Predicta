@@ -249,3 +249,4 @@
 // Update: Create payout security validation
 // Update: Add security event emission
 // Update: Implement security best practices
+// Update: Add event filtering
