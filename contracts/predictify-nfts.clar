@@ -109,3 +109,4 @@
 // Update: Implement bet manipulation checks
 // Update: Create audit logging
 // Update: Add vulnerability patches
+// Update: Create event search functionality
