@@ -84,3 +84,4 @@
 // Update: Add oracle manipulation prevention
 // Update: Implement badge fraud prevention
 // Update: Create security monitoring hooks
+// Update: Implement event categories
