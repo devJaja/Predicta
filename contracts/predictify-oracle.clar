@@ -151,3 +151,4 @@
 // Update: Implement event sorting
 // Update: Create event statistics
 // Update: Add dashboard data queries
+// Update: Improve error messages
