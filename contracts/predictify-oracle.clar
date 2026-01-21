@@ -150,3 +150,4 @@
 // Update: Add multi-option event support
 // Update: Implement event sorting
 // Update: Create event statistics
+// Update: Add dashboard data queries
