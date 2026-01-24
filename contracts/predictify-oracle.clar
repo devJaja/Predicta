@@ -153,3 +153,4 @@
 // Update: Add dashboard data queries
 // Update: Improve error messages
 // Update: Add final security checks
+// Update: Final code cleanup and formatting
