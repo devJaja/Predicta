@@ -82,3 +82,11 @@ MIT License
 # Implement documentation versioning
 # Implement XSS protection
 # Add penetration test fixes
+# Implement useWallet custom hook
+# Implement event card component
+# Implement loading states
+# Implement outcome options builder
+# Implement leaderboard sorting
+# Implement chart.js integration
+# Implement dark mode toggle
+# Implement error retry logic
