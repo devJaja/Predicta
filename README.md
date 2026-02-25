@@ -82,3 +82,4 @@ MIT License
 # Implement documentation versioning
 # Implement XSS protection
 # Add penetration test fixes
+# Implement useWallet custom hook
