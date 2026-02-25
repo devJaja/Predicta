@@ -6,3 +6,4 @@
 // Create statistics dashboard
 // Create footer with links
 // Create transaction builder utility
+// Setup environment variables structure
