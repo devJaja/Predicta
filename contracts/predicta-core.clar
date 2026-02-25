@@ -1,4 +1,4 @@
-;; Predictify Core Contract - Enhanced Edition
+;; Predicta Core Contract - Enhanced Edition
 ;; Multi-oracle consensus, reputation, dynamic fees, NFT badges
 
 ;; Constants

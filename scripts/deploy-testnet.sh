@@ -2,7 +2,7 @@
 # Testnet Deployment - Test before mainnet
 set -e
 
-echo "🧪 Predictify Testnet Deployment"
+echo "🧪 Predicta Testnet Deployment"
 echo "================================"
 
 # Check Clarinet

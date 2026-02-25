@@ -1,4 +1,4 @@
-# 🎯 Predictify Mainnet Deployment - Ready to Deploy
+# 🎯 Predicta Mainnet Deployment - Ready to Deploy
 
 ## ✅ What's Been Prepared
 

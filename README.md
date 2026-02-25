@@ -1,4 +1,4 @@
-# Predictify — Decentralized Prediction Markets on Stacks
+# Predicta — Decentralized Prediction Markets on Stacks
 
 **Fully on-chain, transparent, Bitcoin-secured prediction markets powered by Clarity smart contracts.**
 

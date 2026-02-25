@@ -1,4 +1,4 @@
-;; Predictify Resolution - Event Resolution with Consensus Check
+;; Predicta Resolution - Event Resolution with Consensus Check
 
 ;; Constants
 (define-constant err-not-authorized (err u300))

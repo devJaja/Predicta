@@ -1,10 +1,10 @@
 #!/bin/bash
-# Predictify Mainnet Deployment Script
+# Predicta Mainnet Deployment Script
 # Professional deployment with safety checks and verification
 
 set -e
 
-echo "🚀 Predictify Mainnet Deployment"
+echo "🚀 Predicta Mainnet Deployment"
 echo "================================"
 echo ""
 

@@ -1,4 +1,4 @@
-;; Predictify NFT Badges - Non-Transferable Achievement System
+;; Predicta NFT Badges - Non-Transferable Achievement System
 
 ;; Constants
 (define-constant contract-owner tx-sender)

@@ -1,4 +1,4 @@
-# Predictify Deployment Guide
+# Predicta Deployment Guide
 
 ## 🚀 Professional Mainnet Deployment
 

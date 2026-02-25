@@ -1,6 +1,6 @@
-;; Predictify Oracle - Multi-Oracle M-of-N Consensus
+;; Predicta Oracle - Multi-Oracle M-of-N Consensus
 
-(use-trait core-trait .predictify-core.core-trait)
+(use-trait core-trait .predicta-core.core-trait)
 
 ;; Constants
 (define-constant contract-owner tx-sender)

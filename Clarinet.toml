@@ -1,17 +1,17 @@
 [project]
-name = "predictify"
+name = "predicta"
 description = "Decentralized prediction markets on Stacks"
 authors = []
 telemetry = false
 
-[contracts.predictify-core]
-path = "contracts/predictify-core.clar"
+[contracts.predicta-core]
+path = "contracts/predicta-core.clar"
 
-[contracts.predictify-oracle]
-path = "contracts/predictify-oracle.clar"
+[contracts.predicta-oracle]
+path = "contracts/predicta-oracle.clar"
 
-[contracts.predictify-resolution]
-path = "contracts/predictify-resolution.clar"
+[contracts.predicta-resolution]
+path = "contracts/predicta-resolution.clar"
 
-[contracts.predictify-nfts]
-path = "contracts/predictify-nfts.clar"
+[contracts.predicta-nfts]
+path = "contracts/predicta-nfts.clar"
