@@ -154,3 +154,4 @@
 // Update: Improve error messages
 // Update: Add final security checks
 // Update: Final code cleanup and formatting
+// Add Stacks.js dependencies
