@@ -7,3 +7,4 @@
 // Implement responsive navigation
 // Implement contract read functions
 // Add deployment configuration for Vercel
+// Configure path aliases for imports
