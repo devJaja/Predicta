@@ -90,3 +90,32 @@ MIT License
 # Implement chart.js integration
 # Implement dark mode toggle
 # Implement error retry logic
+# Add Playwright for E2E testing
+# Install @stacks/stacking for staking features
+# Install @heroicons/react for icons
+# Create wallet connection modal
+# Add wallet loading states
+# Implement wallet security warnings
+# Create get bet contract read
+# Add transaction cancellation
+# Implement contract upgrade detection
+# Create page title component
+# Implement cookie consent banner
+# Create event participants count
+# Implement infinite scroll for events
+# Implement quick bet buttons
+# Add bet share functionality
+# Implement reputation score display
+# Add badge detail modal
+# Implement leaderboard sorting
+# Add leaderboard skeleton loader
+# Create dashboard filters
+# Implement form auto-save
+# Add form rich text editor
+# Create state selectors
+# Create optimistic updates
+# Implement responsive breakpoints
+# Implement skip to content link
+# Add bundle size optimization
+# Add visual regression tests
+# Add deployment documentation
