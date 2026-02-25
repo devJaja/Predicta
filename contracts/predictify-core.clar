@@ -255,3 +255,4 @@
 // Update: Fix minor bugs in core contract
 // Update: Update documentation
 // Update: Add deployment scripts
+// Initialize Next.js frontend project
