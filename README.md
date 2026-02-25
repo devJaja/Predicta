@@ -90,3 +90,4 @@ MIT License
 # Implement chart.js integration
 # Implement dark mode toggle
 # Implement error retry logic
+# Add Playwright for E2E testing
