@@ -58,3 +58,4 @@ user-payout = (user-stake / winning-pool) × (total-pool - dynamic-fee)
 ## 📄 License
 
 MIT License
+# Add Xverse wallet support
