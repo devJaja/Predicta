@@ -91,3 +91,4 @@ MIT License
 # Implement dark mode toggle
 # Implement error retry logic
 # Add Playwright for E2E testing
+# Install @stacks/stacking for staking features
