@@ -83,3 +83,4 @@ MIT License
 # Implement XSS protection
 # Add penetration test fixes
 # Implement useWallet custom hook
+# Implement event card component
