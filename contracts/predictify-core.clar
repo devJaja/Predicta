@@ -257,3 +257,4 @@
 // Update: Add deployment scripts
 // Initialize Next.js frontend project
 // Create event list component
+// Add loading states and spinners
