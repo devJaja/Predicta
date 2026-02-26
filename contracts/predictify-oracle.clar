@@ -156,3 +156,4 @@
 // Update: Final code cleanup and formatting
 // Add Stacks.js dependencies
 // Implement event card UI
+// Create error boundary component
