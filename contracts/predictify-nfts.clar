@@ -116,3 +116,4 @@
 // Update: Optimize final gas costs
 // Update: Create production config
 // Implement Leather wallet integration
+// Create bet confirmation modal
