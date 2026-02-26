@@ -91,3 +91,4 @@
 // Update: Add missing validations
 // Update: Implement final optimizations
 // Create wallet connection component
+// Add betting interface component
