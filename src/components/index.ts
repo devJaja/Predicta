@@ -2,3 +2,4 @@
 // Add Leather wallet integration
 // Add event details modal
 // Add error handling UI
+// Add event preview component
