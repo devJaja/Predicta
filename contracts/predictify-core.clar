@@ -259,3 +259,4 @@
 // Create event list component
 // Add loading states and spinners
 // Implement dark mode toggle
+// Create user profile page
