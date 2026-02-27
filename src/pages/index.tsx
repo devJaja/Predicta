@@ -8,3 +8,4 @@
 // Create transaction builder utility
 // Setup environment variables structure
 // Install @stacks/connect for wallet integration
+// Install recharts for data visualization
