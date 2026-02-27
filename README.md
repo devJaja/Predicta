@@ -92,3 +92,4 @@ MIT License
 # Implement error retry logic
 # Add Playwright for E2E testing
 # Install @stacks/stacking for staking features
+# Install @heroicons/react for icons
