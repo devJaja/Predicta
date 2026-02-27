@@ -85,3 +85,4 @@ MIT License
 # Implement useWallet custom hook
 # Implement event card component
 # Implement loading states
+# Implement outcome options builder
