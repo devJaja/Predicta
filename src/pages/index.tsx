@@ -9,3 +9,4 @@
 // Setup environment variables structure
 // Install @stacks/connect for wallet integration
 // Install recharts for data visualization
+// Create wallet context provider
