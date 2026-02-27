@@ -10,3 +10,4 @@
 // Configure path aliases for imports
 // Setup GitHub Actions for CI/CD
 // Add date-fns for date manipulation
+// Add @vercel/analytics for tracking
