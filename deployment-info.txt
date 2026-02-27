@@ -1,0 +1,44 @@
+PREDICTA MAINNET DEPLOYMENT PACKAGE
+====================================
+
+Contract Files (in deployment order):
+1. predicta-oracle.clar
+2. predicta-resolution.clar
+3. predicta-core.clar
+4. predicta-nfts.clar
+
+Deployment Methods:
+-------------------
+
+METHOD 1: Hiro Platform (Recommended)
+→ https://platform.hiro.so
+- Upload each contract
+- Deploy in order above
+- Confirm transactions in wallet
+
+METHOD 2: Stacks Explorer
+→ https://explorer.hiro.so
+- Click "Deploy Contract"
+- Paste contract code
+- Set contract name
+- Deploy
+
+METHOD 3: Clarinet CLI
+→ clarinet deployments apply --mainnet
+- Requires wallet setup
+- See MAINNET-DEPLOY.md
+
+Estimated Cost: 7-8 STX
+
+Post-Deployment:
+----------------
+1. Save contract addresses
+2. Add oracles: (contract-call? .predicta-oracle add-oracle 'SP...)
+3. Update frontend/.env.production
+4. Test with small amounts
+5. Deploy frontend
+
+Support:
+--------
+- Discord: https://discord.gg/stacks
+- Docs: https://docs.hiro.so

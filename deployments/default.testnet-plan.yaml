@@ -1,0 +1,39 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: predicta-core
+            expected-sender: ST19PS42C7R7BR4VCX2YN8KPHXSB0ZC19K6D04812
+            cost: 3442258
+            path: contracts/predicta-core.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-nfts
+            expected-sender: ST19PS42C7R7BR4VCX2YN8KPHXSB0ZC19K6D04812
+            cost: 3430506
+            path: contracts/predicta-nfts.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-oracle
+            expected-sender: ST19PS42C7R7BR4VCX2YN8KPHXSB0ZC19K6D04812
+            cost: 3433304
+            path: contracts/predicta-oracle.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-resolution
+            expected-sender: ST19PS42C7R7BR4VCX2YN8KPHXSB0ZC19K6D04812
+            cost: 3428827
+            path: contracts/predicta-resolution.clar
+            anchor-block-only: true
+            clarity-version: 1
+      epoch: "2.05"

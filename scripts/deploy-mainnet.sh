@@ -24,7 +24,7 @@ fi
 echo -e "${GREEN}✓ Clarinet found${NC}"
 
 # Check if contracts exist
-if [ ! -f "contracts/predictify-core.clar" ]; then
+if [ ! -f "contracts/predicta-core.clar" ]; then
     echo -e "${RED}❌ Contract files not found${NC}"
     exit 1
 fi
