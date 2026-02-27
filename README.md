@@ -61,3 +61,4 @@ MIT License
 # Add Xverse wallet support
 # Implement transaction status tracking
 # Create footer component
+# Add outcome options builder
