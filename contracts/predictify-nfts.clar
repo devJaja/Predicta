@@ -117,3 +117,4 @@
 // Update: Create production config
 // Implement Leather wallet integration
 // Create bet confirmation modal
+// Add responsive navigation bar
