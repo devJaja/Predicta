@@ -60,3 +60,4 @@ user-payout = (user-stake / winning-pool) × (total-pool - dynamic-fee)
 MIT License
 # Add Xverse wallet support
 # Implement transaction status tracking
+# Create footer component
