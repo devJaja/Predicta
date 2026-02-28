@@ -62,3 +62,4 @@ MIT License
 # Implement transaction status tracking
 # Create footer component
 # Add outcome options builder
+# Implement event filtering UI
