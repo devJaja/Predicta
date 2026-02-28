@@ -119,3 +119,4 @@
 // Create bet confirmation modal
 // Add responsive navigation bar
 // Implement date picker component
+// Create leaderboard page
