@@ -2,3 +2,4 @@
 // Configure VS Code workspace settings
 // Install react-hook-form for forms
 // Install sharp for image optimization
+// Add wallet balance fetching
