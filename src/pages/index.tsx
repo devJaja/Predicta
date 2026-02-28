@@ -10,3 +10,4 @@
 // Install @stacks/connect for wallet integration
 // Install recharts for data visualization
 // Create wallet context provider
+// Create wallet network switcher
