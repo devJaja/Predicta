@@ -94,3 +94,4 @@
 // Add betting interface component
 // Implement toast notifications
 // Create form validation logic
+// Add badge showcase component
