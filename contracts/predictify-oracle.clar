@@ -159,3 +159,4 @@
 // Create error boundary component
 // Add event creation form
 // Implement reputation display
+// Create statistics dashboard
