@@ -260,3 +260,4 @@
 // Add loading states and spinners
 // Implement dark mode toggle
 // Create user profile page
+// Add search functionality
