@@ -3,3 +3,4 @@
 // Add event details modal
 // Add error handling UI
 // Add event preview component
+// Add event filtering sidebar
