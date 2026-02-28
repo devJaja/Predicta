@@ -2,3 +2,4 @@
 // Configure Storybook for component development
 // Add react-query for data fetching
 // Add clsx for conditional classes
+// Add wallet selection UI
