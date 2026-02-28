@@ -63,3 +63,4 @@ MIT License
 # Create footer component
 # Add outcome options builder
 # Implement event filtering UI
+# Optimize frontend performance
