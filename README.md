@@ -86,3 +86,4 @@ MIT License
 # Implement event card component
 # Implement loading states
 # Implement outcome options builder
+# Implement leaderboard sorting
