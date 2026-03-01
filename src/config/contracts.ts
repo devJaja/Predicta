@@ -2,3 +2,4 @@
 // Add @stacks/auth for authentication
 // Add @headlessui/react for accessible components
 // Implement Xverse wallet connector
+// Create wallet error handling
