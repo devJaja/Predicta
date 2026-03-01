@@ -161,3 +161,4 @@
 // Implement reputation display
 // Create statistics dashboard
 // Implement contract call wrappers
+// Create claim winnings function
