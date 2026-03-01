@@ -4,3 +4,4 @@
 // Create date/time picker component
 // Create leaderboard component
 // Create statistics dashboard
+// Create footer with links
