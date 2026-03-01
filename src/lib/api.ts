@@ -12,3 +12,4 @@
 // Add date-fns for date manipulation
 // Add @vercel/analytics for tracking
 // Implement STX balance display
+// Create wallet network change detection
