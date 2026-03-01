@@ -11,3 +11,4 @@
 // Install recharts for data visualization
 // Create wallet context provider
 // Create wallet network switcher
+// Add wallet connection status indicator
