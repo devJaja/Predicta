@@ -3,3 +3,4 @@
 // Add react-query for data fetching
 // Add clsx for conditional classes
 // Add wallet selection UI
+// Implement wallet reconnection logic
