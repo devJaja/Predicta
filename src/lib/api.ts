@@ -4,3 +4,4 @@
 // Implement event creation form
 // Implement reputation display widget
 // Implement category filters
+// Implement responsive navigation
