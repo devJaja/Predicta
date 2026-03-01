@@ -64,3 +64,4 @@ MIT License
 # Add outcome options builder
 # Implement event filtering UI
 # Optimize frontend performance
+# Implement event fetching logic
