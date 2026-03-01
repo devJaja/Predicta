@@ -5,3 +5,4 @@
 // Add event preview component
 // Add event filtering sidebar
 // Add pool size visualization
+// Add theme persistence
