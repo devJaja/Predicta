@@ -88,3 +88,4 @@ MIT License
 # Implement outcome options builder
 # Implement leaderboard sorting
 # Implement chart.js integration
+# Implement dark mode toggle
