@@ -3,3 +3,4 @@
 // Install zustand for state management
 // Install tailwind-merge for class merging
 // Implement wallet disconnect logic
+// Create wallet transaction signing
