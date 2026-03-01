@@ -261,3 +261,4 @@
 // Implement dark mode toggle
 // Create user profile page
 // Add search functionality
+// Create API service layer
