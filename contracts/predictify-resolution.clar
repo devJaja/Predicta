@@ -96,3 +96,4 @@
 // Create form validation logic
 // Add badge showcase component
 // Implement chart components
+// Add read-only query functions
