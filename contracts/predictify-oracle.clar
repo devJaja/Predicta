@@ -160,3 +160,4 @@
 // Add event creation form
 // Implement reputation display
 // Create statistics dashboard
+// Implement contract call wrappers
