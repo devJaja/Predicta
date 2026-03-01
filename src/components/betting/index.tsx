@@ -3,3 +3,4 @@
 // Add zod for schema validation
 // Add next-themes for dark mode
 // Create wallet address display component
+// Add wallet event listeners
