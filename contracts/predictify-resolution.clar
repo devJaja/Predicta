@@ -97,3 +97,4 @@
 // Add badge showcase component
 // Implement chart components
 // Add read-only query functions
+// Implement oracle vote submission
