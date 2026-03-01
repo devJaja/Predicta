@@ -94,3 +94,4 @@ MIT License
 # Install @stacks/stacking for staking features
 # Install @heroicons/react for icons
 # Create wallet connection modal
+# Add wallet loading states
