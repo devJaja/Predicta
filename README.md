@@ -89,3 +89,4 @@ MIT License
 # Implement leaderboard sorting
 # Implement chart.js integration
 # Implement dark mode toggle
+# Implement error retry logic
