@@ -122,3 +122,4 @@
 // Create leaderboard page
 // Add animation transitions
 // Create transaction builder
+// Add reputation query API
