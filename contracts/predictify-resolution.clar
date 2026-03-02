@@ -98,3 +98,4 @@
 // Implement chart components
 // Add read-only query functions
 // Implement oracle vote submission
+// Create transaction confirmation handler
