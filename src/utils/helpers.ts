@@ -4,3 +4,4 @@
 // Add Leather wallet connector
 // Implement wallet connection persistence
 // Create wallet QR code display
+// Add oracle vote submission call
