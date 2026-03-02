@@ -12,3 +12,4 @@
 // Create wallet context provider
 // Create wallet network switcher
 // Add wallet connection status indicator
+// Implement place bet contract call
