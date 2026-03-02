@@ -65,3 +65,4 @@ MIT License
 # Implement event filtering UI
 # Optimize frontend performance
 # Implement event fetching logic
+# Create badge fetching logic
