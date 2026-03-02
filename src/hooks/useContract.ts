@@ -6,3 +6,4 @@
 // Create search functionality
 // Create win rate calculator
 // Create API service layer
+// Create E2E tests with Playwright
