@@ -162,3 +162,4 @@
 // Create statistics dashboard
 // Implement contract call wrappers
 // Create claim winnings function
+// Add event status polling
