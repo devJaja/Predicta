@@ -1,0 +1,39 @@
+---
+id: 0
+name: Mainnet deployment
+network: mainnet
+stacks-node: "https://stacks-node-api.mainnet.stacks.co"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoin.blockstack.com:8332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: predicta-core
+            expected-sender: SP2YDHYN3TPZDP6B0GPV3MHH4GQ1R7DQ6FGHB357F
+            cost: 93370
+            path: contracts/predicta-core.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-nfts
+            expected-sender: SP2YDHYN3TPZDP6B0GPV3MHH4GQ1R7DQ6FGHB357F
+            cost: 49130
+            path: contracts/predicta-nfts.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-oracle
+            expected-sender: SP2YDHYN3TPZDP6B0GPV3MHH4GQ1R7DQ6FGHB357F
+            cost: 59610
+            path: contracts/predicta-oracle.clar
+            anchor-block-only: true
+            clarity-version: 1
+        - contract-publish:
+            contract-name: predicta-resolution
+            expected-sender: SP2YDHYN3TPZDP6B0GPV3MHH4GQ1R7DQ6FGHB357F
+            cost: 43380
+            path: contracts/predicta-resolution.clar
+            anchor-block-only: true
+            clarity-version: 1
+      epoch: "2.05"
