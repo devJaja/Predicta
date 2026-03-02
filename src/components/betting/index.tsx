@@ -4,3 +4,4 @@
 // Add next-themes for dark mode
 // Create wallet address display component
 // Add wallet event listeners
+// Implement contract read functions
