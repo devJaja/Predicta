@@ -5,3 +5,4 @@
 // Implement reputation display widget
 // Implement category filters
 // Implement responsive navigation
+// Implement contract read functions
