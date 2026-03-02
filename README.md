@@ -95,3 +95,4 @@ MIT License
 # Install @heroicons/react for icons
 # Create wallet connection modal
 # Add wallet loading states
+# Implement wallet security warnings
