@@ -6,3 +6,4 @@
 // Implement category filters
 // Implement responsive navigation
 // Implement contract read functions
+// Add deployment configuration for Vercel
