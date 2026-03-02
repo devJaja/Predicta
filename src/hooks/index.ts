@@ -4,3 +4,4 @@
 // Install sharp for image optimization
 // Add wallet balance fetching
 // Implement wallet account change detection
+// Create contract write functions
