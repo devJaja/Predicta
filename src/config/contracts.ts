@@ -3,3 +3,4 @@
 // Add @headlessui/react for accessible components
 // Implement Xverse wallet connector
 // Create wallet error handling
+// Add wallet deep linking support
