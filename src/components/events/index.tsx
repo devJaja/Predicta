@@ -4,3 +4,4 @@
 // Install tailwind-merge for class merging
 // Implement wallet disconnect logic
 // Create wallet transaction signing
+// Add contract ABI definitions
