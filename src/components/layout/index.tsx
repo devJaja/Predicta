@@ -4,3 +4,4 @@
 // Add clsx for conditional classes
 // Add wallet selection UI
 // Implement wallet reconnection logic
+// Create contract configuration file
