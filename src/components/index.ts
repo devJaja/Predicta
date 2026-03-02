@@ -6,3 +6,4 @@
 // Add event filtering sidebar
 // Add pool size visualization
 // Add theme persistence
+// Add loading skeleton components
