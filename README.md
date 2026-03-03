@@ -67,3 +67,4 @@ MIT License
 # Implement event fetching logic
 # Create badge fetching logic
 # Add retry logic for failed calls
+# Optimize API call batching
