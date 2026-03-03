@@ -14,3 +14,4 @@
 // Implement STX balance display
 // Create wallet network change detection
 // Add event creation contract call
+// Implement transaction status tracking
