@@ -265,3 +265,4 @@
 // Add bet placement API
 // Implement pool data queries
 // Create caching layer
+// Setup Redux store
