@@ -5,3 +5,4 @@
 // Create wallet address display component
 // Add wallet event listeners
 // Implement contract read functions
+// Create get badge contract read
