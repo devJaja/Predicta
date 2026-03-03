@@ -123,3 +123,4 @@
 // Add animation transitions
 // Create transaction builder
 // Add reputation query API
+// Implement error handling middleware
