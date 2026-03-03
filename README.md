@@ -66,3 +66,4 @@ MIT License
 # Optimize frontend performance
 # Implement event fetching logic
 # Create badge fetching logic
+# Add retry logic for failed calls
