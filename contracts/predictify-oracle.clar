@@ -163,3 +163,4 @@
 // Implement contract call wrappers
 // Create claim winnings function
 // Add event status polling
+// Implement real-time updates
