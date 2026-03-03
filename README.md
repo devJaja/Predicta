@@ -97,3 +97,4 @@ MIT License
 # Add wallet loading states
 # Implement wallet security warnings
 # Create get bet contract read
+# Add transaction cancellation
