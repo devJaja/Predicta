@@ -5,3 +5,4 @@
 // Add wallet selection UI
 // Implement wallet reconnection logic
 // Create contract configuration file
+// Add get pool contract read
