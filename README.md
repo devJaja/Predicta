@@ -96,3 +96,4 @@ MIT License
 # Create wallet connection modal
 # Add wallet loading states
 # Implement wallet security warnings
+# Create get bet contract read
