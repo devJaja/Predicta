@@ -5,3 +5,4 @@
 // Create wallet error handling
 // Add wallet deep linking support
 // Implement get event contract read
+// Create transaction retry logic
