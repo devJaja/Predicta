@@ -5,3 +5,4 @@
 // Add wallet balance fetching
 // Implement wallet account change detection
 // Create contract write functions
+// Add contract error handling
