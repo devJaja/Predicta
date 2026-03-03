@@ -5,3 +5,4 @@
 // Implement wallet disconnect logic
 // Create wallet transaction signing
 // Add contract ABI definitions
+// Implement get reputation contract read
