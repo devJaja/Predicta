@@ -6,3 +6,4 @@
 // Create wallet transaction signing
 // Add contract ABI definitions
 // Implement get reputation contract read
+// Create contract call queue
