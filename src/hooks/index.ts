@@ -6,3 +6,4 @@
 // Implement wallet account change detection
 // Create contract write functions
 // Add contract error handling
+// Implement contract state caching
