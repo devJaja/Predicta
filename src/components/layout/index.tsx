@@ -6,3 +6,4 @@
 // Implement wallet reconnection logic
 // Create contract configuration file
 // Add get pool contract read
+// Implement batch contract calls
