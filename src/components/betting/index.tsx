@@ -7,3 +7,4 @@
 // Implement contract read functions
 // Create get badge contract read
 // Add contract event listeners
+// Add navigation active state
