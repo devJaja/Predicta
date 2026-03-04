@@ -101,3 +101,4 @@
 // Create transaction confirmation handler
 // Add WebSocket support
 // Add events state management
+// Create loading state management
