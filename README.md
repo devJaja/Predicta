@@ -98,3 +98,4 @@ MIT License
 # Implement wallet security warnings
 # Create get bet contract read
 # Add transaction cancellation
+# Implement contract upgrade detection
