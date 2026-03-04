@@ -126,3 +126,4 @@
 // Implement error handling middleware
 // Create event subscription system
 // Implement bets state slice
+// Add error state handling
