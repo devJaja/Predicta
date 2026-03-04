@@ -7,3 +7,4 @@
 // Create contract configuration file
 // Add get pool contract read
 // Implement batch contract calls
+// Create responsive navigation bar
