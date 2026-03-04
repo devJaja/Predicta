@@ -266,3 +266,4 @@
 // Implement pool data queries
 // Create caching layer
 // Setup Redux store
+// Add reputation state management
