@@ -165,3 +165,4 @@
 // Add event status polling
 // Implement real-time updates
 // Create wallet state slice
+// Implement badges state slice
