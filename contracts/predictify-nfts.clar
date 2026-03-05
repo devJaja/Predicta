@@ -127,3 +127,4 @@
 // Create event subscription system
 // Implement bets state slice
 // Add error state handling
+// Create state hydration logic
