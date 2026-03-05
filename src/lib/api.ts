@@ -17,3 +17,4 @@
 // Implement transaction status tracking
 // Create contract data normalization
 // Implement footer links and social
+// Add coming soon page
