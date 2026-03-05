@@ -15,3 +15,4 @@
 // Implement place bet contract call
 // Create transaction confirmation modal
 // Add contract call optimization
+// Add page layout wrapper
