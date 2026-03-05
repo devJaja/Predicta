@@ -7,3 +7,4 @@
 // Implement get event contract read
 // Create transaction retry logic
 // Add contract version checking
+// Add page header component
