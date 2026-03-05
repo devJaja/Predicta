@@ -8,3 +8,4 @@
 // Add contract error handling
 // Implement contract state caching
 // Create footer component
+// Implement maintenance mode page
