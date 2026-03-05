@@ -267,3 +267,4 @@
 // Create caching layer
 // Setup Redux store
 // Add reputation state management
+// Create state selectors
