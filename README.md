@@ -99,3 +99,4 @@ MIT License
 # Create get bet contract read
 # Add transaction cancellation
 # Implement contract upgrade detection
+# Create page title component
