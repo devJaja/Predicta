@@ -166,3 +166,4 @@
 // Implement real-time updates
 // Create wallet state slice
 // Implement badges state slice
+// Add state middleware
