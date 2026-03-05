@@ -8,3 +8,4 @@
 // Create get badge contract read
 // Add contract event listeners
 // Add navigation active state
+// Create 404 not found page
