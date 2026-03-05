@@ -7,3 +7,4 @@
 // Add oracle vote submission call
 // Implement gas estimation
 // Create contract call analytics
+// Implement breadcrumb navigation
