@@ -7,3 +7,4 @@
 // Create contract write functions
 // Add contract error handling
 // Implement contract state caching
+// Create footer component
