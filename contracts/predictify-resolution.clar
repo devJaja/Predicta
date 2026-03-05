@@ -102,3 +102,4 @@
 // Add WebSocket support
 // Add events state management
 // Create loading state management
+// Implement state normalization
