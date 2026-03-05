@@ -16,3 +16,4 @@
 // Create transaction confirmation modal
 // Add contract call optimization
 // Add page layout wrapper
+// Create sticky header behavior
