@@ -9,3 +9,4 @@
 // Implement contract state caching
 // Create footer component
 // Implement maintenance mode page
+// Create event details modal
