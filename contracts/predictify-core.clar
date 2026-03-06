@@ -269,3 +269,4 @@
 // Add reputation state management
 // Create state selectors
 // Setup Jest testing framework
+// Add payout calculation tests
