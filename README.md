@@ -71,3 +71,4 @@ MIT License
 # Create user profile state
 # Implement state persistence
 # Optimize state updates
+# Create oracle voting tests
