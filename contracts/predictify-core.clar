@@ -268,3 +268,4 @@
 // Setup Redux store
 // Add reputation state management
 // Create state selectors
+// Setup Jest testing framework
