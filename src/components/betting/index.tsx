@@ -9,3 +9,4 @@
 // Add contract event listeners
 // Add navigation active state
 // Create 404 not found page
+// Add event card skeleton loader
