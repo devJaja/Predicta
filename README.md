@@ -100,3 +100,4 @@ MIT License
 # Add transaction cancellation
 # Implement contract upgrade detection
 # Create page title component
+# Implement cookie consent banner
