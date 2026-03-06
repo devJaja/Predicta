@@ -167,3 +167,4 @@
 // Create wallet state slice
 // Implement badges state slice
 // Add state middleware
+// Create contract unit tests
