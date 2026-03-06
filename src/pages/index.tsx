@@ -17,3 +17,4 @@
 // Add contract call optimization
 // Add page layout wrapper
 // Create sticky header behavior
+// Add event status badge
