@@ -168,3 +168,4 @@
 // Implement badges state slice
 // Add state middleware
 // Create contract unit tests
+// Implement reputation tests
