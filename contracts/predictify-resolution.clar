@@ -103,3 +103,4 @@
 // Add events state management
 // Create loading state management
 // Implement state normalization
+// Add event creation test cases
