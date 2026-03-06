@@ -8,3 +8,4 @@
 // Implement gas estimation
 // Create contract call analytics
 // Implement breadcrumb navigation
+// Add progress bar component
