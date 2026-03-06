@@ -18,3 +18,4 @@
 // Create contract data normalization
 // Implement footer links and social
 // Add coming soon page
+// Implement event details page
