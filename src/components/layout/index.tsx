@@ -9,3 +9,4 @@
 // Implement batch contract calls
 // Create responsive navigation bar
 // Implement loading page skeleton
+// Create event list page
