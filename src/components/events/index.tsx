@@ -10,3 +10,4 @@
 // Implement mobile menu drawer
 // Add error page component
 // Implement event card component
+// Add event creator display
