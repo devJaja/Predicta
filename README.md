@@ -72,3 +72,4 @@ MIT License
 # Implement state persistence
 # Optimize state updates
 # Create oracle voting tests
+# Implement integration test suite
