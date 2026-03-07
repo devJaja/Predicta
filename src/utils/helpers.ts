@@ -9,3 +9,4 @@
 // Create contract call analytics
 // Implement breadcrumb navigation
 // Add progress bar component
+// Implement event category badge
