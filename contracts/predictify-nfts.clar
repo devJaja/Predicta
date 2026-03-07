@@ -129,3 +129,4 @@
 // Add error state handling
 // Create state hydration logic
 // Implement betting logic tests
+// Add NFT badge minting tests
