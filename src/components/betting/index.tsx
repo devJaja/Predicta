@@ -10,3 +10,4 @@
 // Add navigation active state
 // Create 404 not found page
 // Add event card skeleton loader
+// Create event resolution status
