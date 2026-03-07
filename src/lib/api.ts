@@ -19,3 +19,4 @@
 // Implement footer links and social
 // Add coming soon page
 // Implement event details page
+// Add event favorite button
