@@ -102,3 +102,4 @@ MIT License
 # Create page title component
 # Implement cookie consent banner
 # Create event participants count
+# Implement infinite scroll for events
