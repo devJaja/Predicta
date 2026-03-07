@@ -10,3 +10,4 @@
 // Create footer component
 // Implement maintenance mode page
 // Create event details modal
+// Implement event share button
