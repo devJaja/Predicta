@@ -169,3 +169,4 @@
 // Add state middleware
 // Create contract unit tests
 // Implement reputation tests
+// Add frontend component tests
