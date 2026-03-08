@@ -19,3 +19,4 @@
 // Create sticky header behavior
 // Add event status badge
 // Create event filter sidebar
+// Create betting interface component
