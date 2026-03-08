@@ -20,3 +20,4 @@
 // Add coming soon page
 // Implement event details page
 // Add event favorite button
+// Create featured events carousel
