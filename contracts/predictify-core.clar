@@ -271,3 +271,4 @@
 // Setup Jest testing framework
 // Add payout calculation tests
 // Create end-to-end tests
+// Implement snapshot testing
