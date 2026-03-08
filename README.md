@@ -73,3 +73,4 @@ MIT License
 # Optimize state updates
 # Create oracle voting tests
 # Implement integration test suite
+# Add test coverage reporting
