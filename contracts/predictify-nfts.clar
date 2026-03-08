@@ -130,3 +130,4 @@
 // Create state hydration logic
 // Implement betting logic tests
 // Add NFT badge minting tests
+// Create mock data generators
