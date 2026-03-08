@@ -11,3 +11,4 @@
 // Add progress bar component
 // Implement event category badge
 // Add event sort dropdown
+// Add bet amount validation
