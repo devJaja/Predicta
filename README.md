@@ -103,3 +103,4 @@ MIT License
 # Implement cookie consent banner
 # Create event participants count
 # Implement infinite scroll for events
+# Implement quick bet buttons
