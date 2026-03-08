@@ -11,3 +11,4 @@
 // Implement loading page skeleton
 // Create event list page
 // Implement event outcome options
+// Add event category filters
