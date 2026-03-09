@@ -12,3 +12,4 @@
 // Create event details modal
 // Implement event share button
 // Add event pool size filter
+// Add bet odds display
