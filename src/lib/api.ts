@@ -21,3 +21,4 @@
 // Implement event details page
 // Add event favorite button
 // Create featured events carousel
+// Create bet history list
