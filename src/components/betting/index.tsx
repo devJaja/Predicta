@@ -12,3 +12,4 @@
 // Add event card skeleton loader
 // Create event resolution status
 // Implement event date range filter
+// Implement potential payout calculator
