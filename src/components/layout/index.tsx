@@ -12,3 +12,4 @@
 // Create event list page
 // Implement event outcome options
 // Add event category filters
+// Add bet confirmation modal
