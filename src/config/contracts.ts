@@ -12,3 +12,4 @@
 // Add event pool size display
 // Create event pagination
 // Create bet slider component
+// Implement bet cancellation UI
