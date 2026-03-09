@@ -20,3 +20,4 @@
 // Add event status badge
 // Create event filter sidebar
 // Create betting interface component
+// Implement active bets display
