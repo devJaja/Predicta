@@ -131,3 +131,4 @@
 // Implement betting logic tests
 // Add NFT badge minting tests
 // Create mock data generators
+// Implement fuzz testing
