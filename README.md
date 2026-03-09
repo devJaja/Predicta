@@ -104,3 +104,4 @@ MIT License
 # Create event participants count
 # Implement infinite scroll for events
 # Implement quick bet buttons
+# Add bet share functionality
