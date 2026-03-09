@@ -12,3 +12,4 @@
 // Implement event category badge
 // Add event sort dropdown
 // Add bet amount validation
+// Create bet details modal
