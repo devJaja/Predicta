@@ -13,3 +13,4 @@
 // Add event sort dropdown
 // Add bet amount validation
 // Create bet details modal
+// Add profile avatar display
