@@ -22,3 +22,4 @@
 // Add event favorite button
 // Create featured events carousel
 // Create bet history list
+// Implement bet retry button
