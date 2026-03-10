@@ -21,3 +21,4 @@
 // Create event filter sidebar
 // Create betting interface component
 // Implement active bets display
+// Create user profile page
