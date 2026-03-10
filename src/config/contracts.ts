@@ -13,3 +13,4 @@
 // Create event pagination
 // Create bet slider component
 // Implement bet cancellation UI
+// Create profile stats cards
