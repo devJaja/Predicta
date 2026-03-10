@@ -273,3 +273,4 @@
 // Create end-to-end tests
 // Implement snapshot testing
 // Setup GitHub Actions workflow
+// Add environment variable management
