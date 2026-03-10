@@ -14,3 +14,4 @@
 // Create event status filters
 // Create bet summary display
 // Implement bet notification
+// Create reputation tier badge
