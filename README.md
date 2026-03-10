@@ -105,3 +105,4 @@ MIT License
 # Implement infinite scroll for events
 # Implement quick bet buttons
 # Add bet share functionality
+# Implement reputation score display
