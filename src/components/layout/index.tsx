@@ -14,3 +14,4 @@
 // Add event category filters
 // Add bet confirmation modal
 // Create bet receipt component
+// Add reputation progress bar
