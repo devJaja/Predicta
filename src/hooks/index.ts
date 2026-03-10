@@ -13,3 +13,4 @@
 // Implement event share button
 // Add event pool size filter
 // Add bet odds display
+// Create bet error handling UI
