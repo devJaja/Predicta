@@ -14,3 +14,4 @@
 // Add event pool size filter
 // Add bet odds display
 // Create bet error handling UI
+// Add total bets counter
