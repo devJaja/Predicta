@@ -15,3 +15,4 @@
 // Implement potential payout calculator
 // Add bet success animation
 // Implement win/loss statistics
+// Add profile privacy settings
