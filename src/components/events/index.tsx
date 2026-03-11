@@ -15,3 +15,4 @@
 // Create bet summary display
 // Implement bet notification
 // Create reputation tier badge
+// Implement notification preferences
