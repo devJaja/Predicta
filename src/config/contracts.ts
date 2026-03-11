@@ -15,3 +15,4 @@
 // Implement bet cancellation UI
 // Create profile stats cards
 // Implement badge showcase grid
+// Create leaderboard user row
