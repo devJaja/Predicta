@@ -24,3 +24,4 @@
 // Create bet history list
 // Implement bet retry button
 // Create total winnings display
+// Implement profile delete account
