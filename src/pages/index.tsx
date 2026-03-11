@@ -23,3 +23,4 @@
 // Implement active bets display
 // Create user profile page
 // Implement betting history table
+// Create leaderboard page
