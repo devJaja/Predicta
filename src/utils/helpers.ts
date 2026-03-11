@@ -14,3 +14,4 @@
 // Add bet amount validation
 // Create bet details modal
 // Add profile avatar display
+// Create profile achievements section
