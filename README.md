@@ -107,3 +107,4 @@ MIT License
 # Add bet share functionality
 # Implement reputation score display
 # Add badge detail modal
+# Implement leaderboard sorting
