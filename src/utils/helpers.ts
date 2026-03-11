@@ -15,3 +15,4 @@
 // Create bet details modal
 // Add profile avatar display
 // Create profile achievements section
+// Add leaderboard rank display
