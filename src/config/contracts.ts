@@ -14,3 +14,4 @@
 // Create bet slider component
 // Implement bet cancellation UI
 // Create profile stats cards
+// Implement badge showcase grid
