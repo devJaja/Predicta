@@ -106,3 +106,4 @@ MIT License
 # Implement quick bet buttons
 # Add bet share functionality
 # Implement reputation score display
+# Add badge detail modal
