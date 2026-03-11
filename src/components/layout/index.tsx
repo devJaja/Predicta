@@ -15,3 +15,4 @@
 // Add bet confirmation modal
 // Create bet receipt component
 // Add reputation progress bar
+// Create profile settings page
