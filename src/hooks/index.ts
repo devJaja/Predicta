@@ -16,3 +16,4 @@
 // Create bet error handling UI
 // Add total bets counter
 // Create profile export data
+// Add leaderboard search
