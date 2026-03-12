@@ -108,3 +108,4 @@ MIT License
 # Implement reputation score display
 # Add badge detail modal
 # Implement leaderboard sorting
+# Add leaderboard skeleton loader
