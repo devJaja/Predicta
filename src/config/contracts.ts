@@ -16,3 +16,4 @@
 // Create profile stats cards
 // Implement badge showcase grid
 // Create leaderboard user row
+// Implement leaderboard refresh
