@@ -16,3 +16,4 @@
 // Add profile avatar display
 // Create profile achievements section
 // Add leaderboard rank display
+// Create leaderboard share button
