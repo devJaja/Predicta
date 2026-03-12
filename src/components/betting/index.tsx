@@ -16,3 +16,4 @@
 // Add bet success animation
 // Implement win/loss statistics
 // Add profile privacy settings
+// Implement leaderboard pagination
