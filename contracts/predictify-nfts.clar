@@ -136,3 +136,4 @@
 // Add health check endpoints
 // Create rollback procedures
 // Add video tutorials links
+// Add community guidelines
