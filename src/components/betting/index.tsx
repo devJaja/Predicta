@@ -17,3 +17,4 @@
 // Implement win/loss statistics
 // Add profile privacy settings
 // Implement leaderboard pagination
+// Add total volume chart
