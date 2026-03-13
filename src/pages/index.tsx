@@ -25,3 +25,4 @@
 // Implement betting history table
 // Create leaderboard page
 // Implement leaderboard animations
+// Add revenue chart
