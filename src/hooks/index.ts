@@ -18,3 +18,4 @@
 // Create profile export data
 // Add leaderboard search
 // Create active events chart
+// Implement dashboard real-time updates
