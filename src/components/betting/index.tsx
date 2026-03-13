@@ -18,3 +18,4 @@
 // Add profile privacy settings
 // Implement leaderboard pagination
 // Add total volume chart
+// Create dashboard refresh button
