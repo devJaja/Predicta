@@ -109,3 +109,4 @@ MIT License
 # Add badge detail modal
 # Implement leaderboard sorting
 # Add leaderboard skeleton loader
+# Create dashboard filters
