@@ -17,3 +17,4 @@
 // Add total bets counter
 // Create profile export data
 // Add leaderboard search
+// Create active events chart
