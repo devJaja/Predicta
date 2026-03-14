@@ -18,3 +18,4 @@
 // Create leaderboard user row
 // Implement leaderboard refresh
 // Add average bet size chart
+// Create form success messages
