@@ -19,3 +19,4 @@
 // Implement leaderboard pagination
 // Add total volume chart
 // Create dashboard refresh button
+// Implement form progress indicator
