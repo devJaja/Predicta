@@ -137,3 +137,4 @@
 // Create rollback procedures
 // Add video tutorials links
 // Add community guidelines
+// Add SQL injection prevention
