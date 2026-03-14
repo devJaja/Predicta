@@ -110,3 +110,4 @@ MIT License
 # Implement leaderboard sorting
 # Add leaderboard skeleton loader
 # Create dashboard filters
+# Implement form auto-save
