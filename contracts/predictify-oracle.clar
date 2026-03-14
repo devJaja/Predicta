@@ -177,3 +177,4 @@
 // Create API reference documentation
 // Implement documentation search
 // Implement CSRF protection
+// Add content security policy
