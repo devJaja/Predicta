@@ -26,3 +26,4 @@
 // Create leaderboard page
 // Implement leaderboard animations
 // Add revenue chart
+// Create event creation form
