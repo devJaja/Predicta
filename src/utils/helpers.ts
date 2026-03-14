@@ -18,3 +18,4 @@
 // Add leaderboard rank display
 // Create leaderboard share button
 // Implement win rate chart
+// Add form error messages
