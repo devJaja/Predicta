@@ -19,3 +19,4 @@
 // Add leaderboard filters
 // Create statistics dashboard page
 // Implement dashboard date range picker
+// Add form reset functionality
