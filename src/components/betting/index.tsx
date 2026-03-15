@@ -20,3 +20,4 @@
 // Add total volume chart
 // Create dashboard refresh button
 // Implement form progress indicator
+// Add events state slice
