@@ -113,3 +113,4 @@ MIT License
 # Implement form auto-save
 # Add form rich text editor
 # Create state selectors
+# Create optimistic updates
