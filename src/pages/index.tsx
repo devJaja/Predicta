@@ -29,3 +29,4 @@
 // Create event creation form
 // Implement form file upload
 // Add UI state slice
+// Add useStatistics hook
