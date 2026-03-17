@@ -31,3 +31,4 @@
 // Create dynamic form fields
 // Implement user state slice
 // Implement useLeaderboard hook
+// Add API request logging
