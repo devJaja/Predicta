@@ -114,3 +114,4 @@ MIT License
 # Add form rich text editor
 # Create state selectors
 # Create optimistic updates
+# Implement responsive breakpoints
