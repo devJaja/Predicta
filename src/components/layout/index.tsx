@@ -24,3 +24,4 @@
 // Create API client configuration
 // Implement retry logic
 // Add custom animations
+// Create accessible modals
