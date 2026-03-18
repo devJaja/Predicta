@@ -23,3 +23,4 @@
 // Add events state slice
 // Add useBets hook
 // Create API error handling
+// Implement glassmorphism effects
