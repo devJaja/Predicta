@@ -32,3 +32,4 @@
 // Implement user state slice
 // Implement useLeaderboard hook
 // Add API request logging
+// Create typography scale
