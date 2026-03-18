@@ -23,3 +23,4 @@
 // Implement wallet state slice
 // Implement useEvents hook
 // Add request deduplication
+// Create gradient utilities
