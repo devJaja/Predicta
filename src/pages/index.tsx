@@ -31,3 +31,4 @@
 // Add UI state slice
 // Add useStatistics hook
 // Create custom Tailwind theme
+// Add ARIA labels to components
