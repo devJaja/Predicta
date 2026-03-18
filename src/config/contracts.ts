@@ -23,3 +23,4 @@
 // Add state devtools integration
 // Add query invalidation logic
 // Create color palette variables
+// Add screen reader announcements
