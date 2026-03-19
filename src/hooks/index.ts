@@ -25,3 +25,4 @@
 // Implement API rate limiting
 // Add custom shadows
 // Create accessible tooltips
+// Create service worker
