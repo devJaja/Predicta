@@ -25,3 +25,4 @@
 // Implement retry logic
 // Add custom animations
 // Create accessible modals
+// Create memoization strategy
