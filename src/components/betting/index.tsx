@@ -24,3 +24,4 @@
 // Add useBets hook
 // Create API error handling
 // Implement glassmorphism effects
+// Implement color contrast compliance
