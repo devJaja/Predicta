@@ -24,3 +24,4 @@
 // Create useUserProfile hook
 // Implement API rate limiting
 // Add custom shadows
+// Create accessible tooltips
