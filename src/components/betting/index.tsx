@@ -25,3 +25,4 @@
 // Create API error handling
 // Implement glassmorphism effects
 // Implement color contrast compliance
+// Add debounce and throttle
