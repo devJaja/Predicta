@@ -25,3 +25,4 @@
 // Add request deduplication
 // Create gradient utilities
 // Add accessible form labels
+// Implement virtual scrolling
