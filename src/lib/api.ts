@@ -33,3 +33,4 @@
 // Implement useLeaderboard hook
 // Add API request logging
 // Create typography scale
+// Add accessible error messages
