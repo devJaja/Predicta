@@ -26,3 +26,4 @@
 // Add custom animations
 // Create accessible modals
 // Create memoization strategy
+// Implement accessibility tests
