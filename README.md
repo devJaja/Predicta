@@ -117,3 +117,4 @@ MIT License
 # Implement responsive breakpoints
 # Implement skip to content link
 # Add bundle size optimization
+# Add visual regression tests
