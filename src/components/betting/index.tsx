@@ -26,3 +26,4 @@
 // Implement glassmorphism effects
 // Implement color contrast compliance
 // Add debounce and throttle
+// Add API mocking
