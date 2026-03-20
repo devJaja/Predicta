@@ -26,3 +26,4 @@
 // Create focus visible styles
 // Create image optimization
 // Implement integration tests
+// Implement API documentation
