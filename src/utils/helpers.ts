@@ -25,3 +25,4 @@
 // Add theme toggle component
 // Create focus visible styles
 // Create image optimization
+// Implement integration tests
