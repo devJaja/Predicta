@@ -26,3 +26,4 @@
 // Add screen reader announcements
 // Implement lazy loading
 // Create E2E test suite
+// Create developer guide
