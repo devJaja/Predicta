@@ -34,3 +34,4 @@
 // Add API request logging
 // Create typography scale
 // Add accessible error messages
+// Implement caching strategy
