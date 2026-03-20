@@ -26,3 +26,4 @@
 // Add custom shadows
 // Create accessible tooltips
 // Create service worker
+// Implement test coverage reporting
