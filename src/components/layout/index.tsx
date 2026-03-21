@@ -27,3 +27,4 @@
 // Create accessible modals
 // Create memoization strategy
 // Implement accessibility tests
+// Add loading animations
