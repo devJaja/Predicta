@@ -118,3 +118,4 @@ MIT License
 # Implement skip to content link
 # Add bundle size optimization
 # Add visual regression tests
+# Add deployment documentation
