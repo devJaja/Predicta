@@ -27,3 +27,4 @@
 // Add accessible form labels
 // Implement virtual scrolling
 // Create performance tests
+// Implement error boundaries
